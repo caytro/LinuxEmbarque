@@ -1,0 +1,3 @@
+# Aliases extracted from modules themselves.
+alias fs-efivarfs efivarfs
+alias rtnl-link-bridge bridge
